@@ -10,7 +10,7 @@ numpy	>= 1.23.3
 
 **********
 Get codes from 
-https://git.delta.com/ods/a-gate.git
+https://github.com/MohNaderi/ProgrammingChallenge.git
 **********
 
 **********
